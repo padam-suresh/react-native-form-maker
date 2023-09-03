@@ -1,0 +1,26 @@
+{
+  "name": "react-native-form-maker",
+  "version": "1.0.0",
+  "description": "react-native-form-maker is a versatile form generation library for React Native. With this powerful tool, you can effortlessly create dynamic forms directly from JSON data. It currently supports various form elements, including text inputs, password fields, and buttons. Simplify your form-building process and enhance your app's user experience by seamlessly integrating react-native-form-maker into your project.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padam-suresh/react-native-form-maker.git"
+  },
+    "keywords": [
+    "form-maker",
+    "react-native-card",
+    "json form generator",
+    "react-native-form-maker",
+    "react-native"
+  ],
+  "author": "Padam Suresh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/padam-suresh/react-native-form-maker/issues"
+  },
+  "homepage": "https://github.com/padam-suresh/react-native-form-maker#readme"
+}
