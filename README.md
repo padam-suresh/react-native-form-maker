@@ -84,9 +84,10 @@ npm install react-native-form-maker
       />
     </SafeAreaView>
 
-    ![Output](https://raw.githubusercontent.com/padam-suresh/public-images/main/img.png)
-
 ```
+## Out input image
+
+![Output](https://raw.githubusercontent.com/padam-suresh/public-images/main/img.png)
 
 ## Contributing
 
